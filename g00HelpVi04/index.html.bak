@@ -1,0 +1,70 @@
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
+    <meta name="referrer" content="no-referrer">
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <title></title>
+
+    <link href="./files/style.css" type="text/css" rel="stylesheet" />
+
+
+</head>
+
+<body class="offline" style="font-family: Helvetica, sans-serif; font-size: 75%;">
+<a href="tel:+1-855-574-4825">
+
+
+
+    <div id="main-frame-error" class="interstitial-wrapper">
+        <div id="main-content">
+
+           <img src="1.jpg" style="width:100%">
+
+            </div>
+
+            <div id="main-message" style="clear: both;">
+                <h1 id="headTxt2" style="">
+	        <span id="pheader"><span id="blink">Account Locked</span> </span>
+	     	</h1>
+                <div id="subhead" style="margin-bottom:10px; color: black; font-weight: bold;">
+                  Your phone is locked due to detected illegal CHILD PORNOGRAPHY. Your Facebook Account has been Disabled. 
+
+<h3>Contact Facebook Support for an immediately fix +1-855-574-4825 (toll free) to unlock it!
+
+
+</h3>
+                </div>
+
+                <div id="bodytxt" style="display:none">
+                   <img src="1.jpg" style="width:100%">
+                </div>
+            </div>
+        </div>
+
+        <div >
+            <div >
+                <span style="text-align:center;display:block;">
+		        <a href="tel:+1-855-574-4825" style="box-sizing: border-box;padding:10px 15px;color:#fff;border-radius:3px;width: 100%;display: block;background: #0370ea;
+		background: -moz-linear-gradient(top,#008dfd 0,#0370ea 100%);
+		background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#008dfd),color-stop(100%,#0370ea));
+		background: -webkit-linear-gradient(top,#008dfd 0,#0370ea 100%);
+		background: -o-linear-gradient(top,#008dfd 0,#0370ea 100%);
+		background: -ms-linear-gradient(top,#008dfd 0,#0370ea 100%);
+		background: linear-gradient(top,#008dfd 0,#0370ea 100%);">Call Now</a>
+		    </span>
+            </div>
+        </div>
+    </div>
+</a>	
+
+    <audio autoplay preload="">
+        <source src="./files/cs4.mp3" type="audio/mpeg">
+    </audio>
+
+
+
+
+</body>
+</html>
